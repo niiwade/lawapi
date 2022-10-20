@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5CrPNXCZLsI3+aFTHH4QwUsw4iRlbqynLSDQsMI8Bx8=",
+  "Source": "empwebapi",
+  "BasePath": "_content/empwebapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
